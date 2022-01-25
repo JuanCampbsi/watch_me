@@ -8,7 +8,7 @@
 
 </br>
 
-O projeto tem como o objetivo listar filmes e seus respectivos genêros de uma api.
+O projeto tem como o objetivo listar filmes e seus respectivos gêneros de uma api.
 
 
 ## Preview 📱
