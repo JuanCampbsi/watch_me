@@ -11,7 +11,7 @@
 O projeto tem como o objetivo listar filmes e seus respectivos gêneros de uma api.
 
 
-## Preview 📱
+## Preview 🖥
 Interface do usuário.
 </br>
 
