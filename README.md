@@ -17,7 +17,7 @@ Interface do usuário.
 
 <p align="center">
   <kbd>
- <img width="900" style="border-radius: 10px" height="550" src="https://github.com/JuanCampbsi/WatchMe/blob/63db8755acaed8e92057b952322f33d9f5ea7a77/assets/preview.gif" alt="Intro"> 
+ <img width="800" style="border-radius: 10px" height="500" src="https://github.com/JuanCampbsi/WatchMe/blob/63db8755acaed8e92057b952322f33d9f5ea7a77/assets/preview.gif" alt="Intro"> 
   </kbd>
   </br>
 </p>
@@ -43,7 +43,7 @@ $ yarn dev
 # Execute o server json
 $ yarn server
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:8080>
+# O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 
 ```
 
